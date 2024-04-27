@@ -1,5 +1,19 @@
-"dependencies": {
+{
+  "name": "Animal-Adoption site",
+  "version": "1.0.0",
+  "description": "Description of your project",
+  "main": "projectnodejs.js",
+  "scripts": {
+    "start": "node projectnodejs.js"
+  },
+  "keywords": [],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
     "express": "^4.17.1",
     "body-parser": "^1.19.0",
-    ...
+    "express-session": "^1.17.2",
+    "cookie-parser": "^1.4.5"
+    // Add other dependencies here
+  }
 }
