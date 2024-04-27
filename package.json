@@ -7,7 +7,7 @@
     "start": "node projectnodejs.js"
   },
   "keywords": [],
-  "author": "Your Name",
+  "author": "Alvin",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
