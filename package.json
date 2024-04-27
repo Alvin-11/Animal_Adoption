@@ -5,15 +5,15 @@
   "main": "projectnodejs.js",
   "scripts": {
     "start": "node projectnodejs.js"
-  },
+  },{
   "keywords": [],
   "author": "Alvin",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
     "body-parser": "^1.19.0",
-    "express-session": "^1.17.2",
-    "cookie-parser": "^1.4.5"
+    "express-session":"^1.17.2",
+    "cookie-parser":"^1.4.5"
     
   }
   
